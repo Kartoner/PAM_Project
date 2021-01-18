@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculator">Kalkulator</string>
+    <string name="currencies">Waluty</string>
+    <string name="author">Autor</string>
+    <string name="name">Nazwa</string>
+    <string name="code">Kod</string>
+    <string name="value">Wartość</string>
+    <string name="accept">Zaakceptuj</string>
+    <string name="edit">Edytuj</string>
+    <string name="remove">Usuń</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="calculate">Oblicz</string>
+    <string name="details">Szczegóły</string>
+    <string name="setValue">Podaj wartość</string>
+    <string name="sourceCurrency">Waluta źródłowa</string>
+    <string name="destCurrency">Waluta docelowa</string>
+    <string name="back">Wróć</string>
+    <string name="inputValueNotNull">Wartość wejściowa nie może być pusta</string>
+    <string name="authorText">Stworzone przez Jakuba Ostrowskiego, Styczeń 2021</string>
+    <string name="sourceCurrNotNull">Waluta źródłowa nie może być pusta</string>
+    <string name="add">Dodaj</string>
+    <string name="destCurrNotNull">Waluta docelowa nie może być pusta</string>
+    <string name="codeNotNull">Pole \'Kod\' nie może być puste</string>
+    <string name="codeExists">Waluta z podanym kodem już istnieje</string>
+    <string name="nameNotNull">Pole \'Nazwa\' nie może być puste</string>
+    <string name="valueNotNull">Pole \'Wartość\' nie może być puste</string>
+    <string name="valueNotNegative">Wartość nie może być ujemna</string>
+</resources>

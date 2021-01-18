@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">PAMProject</string>
+    <string name="calculator">Calculator</string>
+    <string name="currencies">Currencies</string>
+    <string name="author">Author</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="name">Name</string>
+    <string name="code">Code</string>
+    <string name="value">Value</string>
+    <string name="accept">Accept</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="calculate">Calculate</string>
+    <string name="details">Details</string>
+    <string name="app_title" translatable="false">PAM Project</string>
+    <string name="setValue">Set value</string>
+    <string name="sourceCurrency">Source currency</string>
+    <string name="destCurrency">Destination currency</string>
+    <string name="back">Back</string>
+    <string name="inputValueNotNull">Input value cannot be empty</string>
+    <string name="authorText">Created by Jakub Ostrowski, January 2021</string>
+    <string name="sourceCurrNotNull">Source currency cannot be empty</string>
+    <string name="add">Add</string>
+    <string name="destCurrNotNull">Destination currency cannot be empty</string>
+    <string name="codeNotNull">\'Code\' field cannot be empty</string>
+    <string name="codeExists">Currency with given code already exists</string>
+    <string name="nameNotNull">\'Name\' field cannot be empty</string>
+    <string name="valueNotNull">\'Value\' field cannot be empty</string>
+    <string name="valueNotNegative">Value cannot be negative</string>
+</resources>
