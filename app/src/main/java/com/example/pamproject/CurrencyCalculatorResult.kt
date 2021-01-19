@@ -53,7 +53,7 @@ class CurrencyCalculatorResult : AppCompatActivity() {
         val destCurr = dest?.let { dataBase.currencyDAO().getByCode(it) }
 
         if (sourceValue != null) {
-            return sourceValue * (sourceCurr?.value ?: 0.0) * (destCurr?.value ?: 0.0)
+            return ((sourceValue * (sourceCurr?.value ?: 0.0)) / (destCurr?.value ?: 0.0)) * 1.0
         } else {
             return null
         }
